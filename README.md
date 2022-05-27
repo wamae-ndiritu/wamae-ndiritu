@@ -10,6 +10,10 @@
 -    Mongoose and MongoDb
 -        HTML
 -        CSS
+-  Besides, web development am also learning other programming languages such as
+-     Python
+-     C
+-     C++
 - 🌱 Up to this point, am still an university Student and therefore I am still 
 - learning new things in the field of Computer Science.
 - 💞️ I’m looking to collaborate on with you guys as we explore the technological field.
