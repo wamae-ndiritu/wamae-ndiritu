@@ -1,10 +1,13 @@
 - 👋 Hi, I’m wamae-ndiritu
-- 👀 I have passion in Software develepment. Currently I have been working on 
-- Javascript projects using its different frameworks
-- including React Js, Node Js and Angular Js. 
-- Am also conservant with the following;
+- 👀 I have passion in Software develepment. Currently, I have been working on 
+- Javascript projects using different frameworks
+- including;
+-     React Js, 
+-     Node Js and 
+-     Angular Js. 
+- Am also conversant with the following;
 -       Redux
-- Mongoose and MongoDb
+-    Mongoose and MongoDb
 -        HTML
 -        CSS
 - 🌱 Up to this point, am still an university Student and therefore I am still 
