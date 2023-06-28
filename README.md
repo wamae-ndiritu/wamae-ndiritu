@@ -1,6 +1,6 @@
-- 👋 Hi, I’m wamae-ndiritu
-- 👀 A passionate Software developer working on Javascript projects using different frameworks such as;
--     React Js, Node Js and Mongoose and MongoDb
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 - Am also conversant with the following;
 -       Redux / State Management Tools
 -     HTML & CSS
