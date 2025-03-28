@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn-bbaid.nitrocdn.com/wYFmIWkSNKpdInpiRfVoEqTErZtkFjBo/assets/images/optimized/rev-32e1ec2/wp-content/uploads/2022/03/Software-Product-Development-Strategy_Banner.jpg)](https://github.com/wamae-ndiritu)
 <h1 align="center">Hi 👋, I'm Wamae Ndiritu</h1>
-<h3 align="center">Software Engineering Student | Web Developer | Programmer</h3>
+<h3 align="center">Software Developer | Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
